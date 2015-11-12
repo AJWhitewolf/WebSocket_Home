@@ -1,0 +1,9 @@
+c:\users\adunigan\documents\visual studio 2013\Projects\WebSocket_Home\WebSocket_Home\bin\Debug\WebSocket_Home.exe.config
+c:\users\adunigan\documents\visual studio 2013\Projects\WebSocket_Home\WebSocket_Home\bin\Debug\WebSocket_Home.exe
+c:\users\adunigan\documents\visual studio 2013\Projects\WebSocket_Home\WebSocket_Home\bin\Debug\WebSocket_Home.pdb
+c:\users\adunigan\documents\visual studio 2013\Projects\WebSocket_Home\WebSocket_Home\bin\Debug\GitRemote.exe
+c:\users\adunigan\documents\visual studio 2013\Projects\WebSocket_Home\WebSocket_Home\bin\Debug\Newtonsoft.Json.dll
+c:\users\adunigan\documents\visual studio 2013\Projects\WebSocket_Home\WebSocket_Home\bin\Debug\GitRemote.pdb
+c:\users\adunigan\documents\visual studio 2013\Projects\WebSocket_Home\WebSocket_Home\obj\Debug\WebSocket_Home.csprojResolveAssemblyReference.cache
+c:\users\adunigan\documents\visual studio 2013\Projects\WebSocket_Home\WebSocket_Home\obj\Debug\WebSocket_Home.exe
+c:\users\adunigan\documents\visual studio 2013\Projects\WebSocket_Home\WebSocket_Home\obj\Debug\WebSocket_Home.pdb

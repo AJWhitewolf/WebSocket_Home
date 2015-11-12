@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<root>
+  <cat name="git">
+    <item name="SRCharacters" directory="C:\Users\ADunigan\WebstormProjects\SRCharacters" />
+    <item name="WindowsProcesses" directory="C:\Users\ADunigan\Documents\Visual Studio 2013\Projects\WindowsProcesses" />
+    <item name="PodcastClient" directory="C:\Users\ADunigan\Documents\Visual Studio 2013\Projects\PodcastClient" />
+    <item name="GitRemote" directory="C:\Users\ADunigan\Documents\Visual Studio 2013\Projects\GitRemote" />
+  </cat>
+</root>
